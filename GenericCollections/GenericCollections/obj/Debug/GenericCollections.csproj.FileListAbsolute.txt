@@ -1,0 +1,5 @@
+c:\users\szabo mate\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+c:\users\szabo mate\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+c:\users\szabo mate\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+c:\users\szabo mate\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+c:\users\szabo mate\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
