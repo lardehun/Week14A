@@ -1,0 +1,6 @@
+c:\users\szabo mate\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+c:\users\szabo mate\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+c:\users\szabo mate\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+c:\users\szabo mate\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csprojResolveAssemblyReference.cache
+c:\users\szabo mate\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+c:\users\szabo mate\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
